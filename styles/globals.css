@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Dank Mono";
+  background: #0d1117;
+  color: #efeff0;
+}
+
